@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "server": "json-server --watch db.json"
+    "server": "node api/index.js"
   },
   "dependencies": {
     "json-server": "^0.17.3"
